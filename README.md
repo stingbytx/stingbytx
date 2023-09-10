@@ -1,5 +1,5 @@
 # Hey There!
-I'm a versatile professional with expertise in web development, software engineering and cybersecurity. My journey in the tech world has been nothing short of exciting, and I'm passionate about creating and innovative solutions. Here's a bot about me:<br>
+I'm a versatile professional with expertise in web development, software engineering and cybersecurity. My journey in the tech world has been nothing short of exciting, and I'm passionate about creating and innovative solutions. Here's a bit about me:<br>
 
 
 ## 🌐 Socials:
